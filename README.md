@@ -196,14 +196,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
   </tr>
 </table>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=💡+Open+to+Collaborations+and+Opportunities;🚀+Let's+Build+AI+Solutions+Together;📩+Feel+Free+to+Reach+Out+Anytime!" alt="Contact Animation" />
-
 </div>
   
   <br>
