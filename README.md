@@ -52,6 +52,8 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
@@ -60,8 +62,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />
       <br>Scikit-Learn
@@ -70,6 +70,8 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
       <br>NumPy
@@ -104,6 +106,8 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
@@ -114,10 +118,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
     </td>
   </tr>
 </table>
-
-<br />
-
-
 
 ## 📊 GitHub Analytics
 
