@@ -135,56 +135,76 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
 ## 📫 Let's Connect
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <a href="mailto:sathyajit2004@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email Icon"/>
-        <br>
-        <strong>Email Me</strong>
-        <br>
-        <code>sathyajit2004@gmail.com</code>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://www.linkedin.com/in/sathyajitanand-v-554a43325/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn Icon"/>
-        <br>
-        <strong>Connect on LinkedIn</strong>
-        <br>
-        <code>Sathyajitanand V</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <a href="tel:+917200308228">
-          <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-        </a>
-        <br><br>
-        <img src="https://img.icons8.com/color/48/000000/phone.png" width="40" height="40" alt="Phone Icon"/>
-        <br>
-        <strong>Call or WhatsApp</strong>
-        <br>
-        <code>+91 7200308228</code>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://sathyajitanand-v-portfolio-website.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-        </a>
-        <br><br>
-        <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40" height="40" alt="Portfolio Icon"/>
-        <br>
-        <strong>Visit Portfolio</strong>
-        <br>
-        <code>sathyajitanand-v.vercel.app</code>
-      </td>
-    </tr>
-  </table>
+  ## 📫 Let's Connect
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td align="center" width="200" style="padding: 20px;">
+      <a href="mailto:sathyajit2004@gmail.com">
+        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60" height="60" alt="Email"/>
+      </a>
+      <br><br>
+      <a href="mailto:sathyajit2004@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <br><br>
+      <strong>📧 Email</strong>
+      <br>
+      <sub>sathyajit2004@gmail.com</sub>
+    </td>
+    <td align="center" width="200" style="padding: 20px;">
+      <a href="https://www.linkedin.com/in/sathyajitanand-v-554a43325/">
+        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" height="60" alt="LinkedIn"/>
+      </a>
+      <br><br>
+      <a href="https://www.linkedin.com/in/sathyajitanand-v-554a43325/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br><br>
+      <strong>💼 LinkedIn</strong>
+      <br>
+      <sub>Sathyajitanand V</sub>
+    </td>
+    <td align="center" width="200" style="padding: 20px;">
+      <a href="tel:+917200308228">
+        <img src="https://img.icons8.com/fluency/96/000000/phone.png" width="60" height="60" alt="Phone"/>
+      </a>
+      <br><br>
+      <a href="tel:+917200308228">
+        <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+      </a>
+      <br><br>
+      <strong>📱 Phone</strong>
+      <br>
+      <sub>+91 7200308228</sub>
+    </td>
+    <td align="center" width="200" style="padding: 20px;">
+      <a href="https://sathyajitanand-v-portfolio-website.vercel.app/">
+        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60" height="60" alt="Portfolio"/>
+      </a>
+      <br><br>
+      <a href="https://sathyajitanand-v-portfolio-website.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      </a>
+      <br><br>
+      <strong>🌐 Portfolio</strong>
+      <br>
+      <sub>Visit Website</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=💡+Open+to+Collaborations+and+Opportunities;🚀+Let's+Build+AI+Solutions+Together;📩+Feel+Free+to+Reach+Out+Anytime!" alt="Contact Animation" />
+
+</div>
   
   <br>
   
