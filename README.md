@@ -141,9 +141,9 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
   
 <table>
   <tr>
-    <td align="center" width="200" style="padding: 20px;">
+    <td align="center" width="150">
       <a href="mailto:sathyajit2004@gmail.com">
-        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60" height="60" alt="Email"/>
+        <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="48" height="48" alt="Email"/>
       </a>
       <br><br>
       <a href="mailto:sathyajit2004@gmail.com">
@@ -154,9 +154,9 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <br>
       <sub>sathyajit2004@gmail.com</sub>
     </td>
-    <td align="center" width="200" style="padding: 20px;">
+    <td align="center" width="150">
       <a href="https://www.linkedin.com/in/sathyajitanand-v-554a43325/">
-        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" height="60" alt="LinkedIn"/>
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="48" height="48" alt="LinkedIn"/>
       </a>
       <br><br>
       <a href="https://www.linkedin.com/in/sathyajitanand-v-554a43325/">
@@ -167,9 +167,9 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <br>
       <sub>Sathyajitanand V</sub>
     </td>
-    <td align="center" width="200" style="padding: 20px;">
+    <td align="center" width="150">
       <a href="tel:+917200308228">
-        <img src="https://img.icons8.com/fluency/96/000000/phone.png" width="60" height="60" alt="Phone"/>
+        <img src="https://img.icons8.com/fluency/48/000000/phone.png" width="48" height="48" alt="Phone"/>
       </a>
       <br><br>
       <a href="tel:+917200308228">
@@ -180,9 +180,9 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <br>
       <sub>+91 7200308228</sub>
     </td>
-    <td align="center" width="200" style="padding: 20px;">
+    <td align="center" width="150">
       <a href="https://sathyajitanand-v-portfolio-website.vercel.app/">
-        <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60" height="60" alt="Portfolio"/>
+        <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="48" height="48" alt="Portfolio"/>
       </a>
       <br><br>
       <a href="https://sathyajitanand-v-portfolio-website.vercel.app/">
@@ -232,7 +232,5 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
   </details>
   
   <br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💡+Have+an+idea%3F+Let's+discuss!;🚀+Looking+for+AI%2FML+collaboration%3F;🤖+Interested+in+LLMs+and+NLP%3F;📩+Feel+free+to+reach+out+anytime!" />
   
 </div>
