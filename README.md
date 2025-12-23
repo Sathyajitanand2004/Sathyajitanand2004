@@ -32,8 +32,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
 <br />
 
 ## 🛠️ Tech Stack
-
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -52,8 +50,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
@@ -70,12 +66,12 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
       <br>Django
@@ -88,8 +84,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
@@ -106,8 +100,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
@@ -133,9 +125,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
 <br />
 
 ## 📫 Let's Connect
-
-<div align="center">
-  ## 📫 Let's Connect
 
 <div align="center">
   
