@@ -80,23 +80,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
 
 <br />
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathyajitanand2004&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<br />
-
-## 💼 Professional Experience
-
-**Python Developer Intern** @ LabGlo Technologies LLP *(Jun 2024 – Jul 2024)*
-- Developed Django-based web application with authentication and REST APIs
-- Designed responsive front-end and integrated backend services
-- Enhanced data handling systems using Python and SQL
-
-<br />
-
 ## 📫 Let's Connect
 
 <div align="center">
