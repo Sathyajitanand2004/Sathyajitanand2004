@@ -19,7 +19,7 @@
 
 <br />
 
-## 🚀 About Me
+## About Me
 
 Final year **B.Tech Information Technology** student at **Sri Venkateswara College of Engineering** with a passion for building intelligent systems that solve real-world problems. I specialize in **AI/ML**, **MLOps**, **NLP**, and **LLM frameworks**, with hands-on experience in production-grade pipelines and agentic AI systems.
 
@@ -31,7 +31,7 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
 
 <br />
 
-## 🛠️ Tech Stack
+## Tech Stack
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -111,7 +111,7 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
   </tr>
 </table>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sathyajitanand2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
@@ -124,7 +124,7 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
 
 <br />
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   
