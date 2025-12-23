@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Sathyajitanand+V+👋;AI%2FML+Engineer+%7C+MLOps+Enthusiast+%7C+NLP+Explorer" alt="Typing SVG" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://sathyajitanand-v-portfolio-website.vercel.app/">
@@ -233,6 +233,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
   
   <br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💡+Have+an+idea%3F+Let's+discuss!;🚀+Looking+for+AI%2FML+collaboration%3F;🤖+Interested+in+LLMs+and+NLP%3F;📩+Feel+free+to+reach+out+anytime!" alt="Contact Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💡+Have+an+idea%3F+Let's+discuss!;🚀+Looking+for+AI%2FML+collaboration%3F;🤖+Interested+in+LLMs+and+NLP%3F;📩+Feel+free+to+reach+out+anytime!" />
   
 </div>
