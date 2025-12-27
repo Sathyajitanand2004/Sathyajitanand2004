@@ -17,7 +17,8 @@
   </a>
 </div>
 
-<center># 👋 Hi , I am Sathyajitanand V</center>
+<h1 align="center">👋 Hi , I am Sathyajitanand V</h1>
+
 
 <br />
 
