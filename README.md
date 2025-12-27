@@ -114,20 +114,6 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
     </td>
   </tr>
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/langchain.svg" width="48" height="48"/>
-      <br>LangChain
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/npm/@iconify/icons-mdi/graph.svg" width="48" height="48"/>
-      <br>LangGraph
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/openai.svg" width="48" height="48"/>
-      <br>Agentic AI
-    </td>
-  </tr>
 </table>
 
 
