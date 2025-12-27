@@ -116,11 +116,11 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
 
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langchain@master/docs/static/img/langchain_logo.svg" width="48" height="48"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/langchain.svg" width="48" height="48"/>
       <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langgraph@main/docs/static/img/langgraph_logo.svg" width="48" height="48"/>
+      <img src="https://cdn.jsdelivr.net/npm/@iconify/icons-mdi/graph.svg" width="48" height="48"/>
       <br>LangGraph
     </td>
     <td align="center" width="96">
