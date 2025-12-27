@@ -38,97 +38,98 @@ Final year **B.Tech Information Technology** student at **Sri Venkateswara Colle
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
       <br>C
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/>
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/>
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
       <br>Scikit-Learn
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
       <br>NumPy
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48"/>
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48"/>
       <br>Streamlit
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48"/>
       <br>Azure
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/>
       <br>Jupyter
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langchain@master/docs/static/img/langchain_logo.svg" width="48" height="48"/>
       <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph_logo.png" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langgraph@main/docs/static/img/langgraph_logo.svg" width="48" height="48"/>
       <br>LangGraph
     </td>
     <td align="center" width="96">
-      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/openai.svg" width="48" height="48"/>
       <br>Agentic AI
     </td>
   </tr>
 </table>
+
 
 
 ## GitHub Analytics
